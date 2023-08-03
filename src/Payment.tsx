@@ -7,7 +7,6 @@ import "./App.css";
 
 const stripePromise = loadStripe(
   "pk_test_51NWFEyId7kYMA7WH2bDotlRcdhnaIKitqZYJXQJUhtNvWRSidhKazsrtByvTYJsMj9U66LpWYbyigMWjdSHWtFbP00ZtmzXZd6"
-  // "pk_live_51NWFEyId7kYMA7WHNB2WDasWUu2Ye5R9qMYEEr8HFY2GDd1ThgzOIGaZPh851VBZMxvls4LABPQdLrHa4XVa5Q8K005lPqAMSx"
 );
 
 export default function Payment() {
